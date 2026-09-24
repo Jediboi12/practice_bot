@@ -1,0 +1,33 @@
+[1.475s] Invoking command in '/home/jedidiah-sanusi/practice_bot/src/practice_bot_py': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jedidiah-sanusi/practice_bot/build/practice_bot_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jedidiah-sanusi/practice_bot/install/practice_bot_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/practice_bot_py build --build-base /home/jedidiah-sanusi/practice_bot/build/practice_bot_py/build install --record /home/jedidiah-sanusi/practice_bot/build/practice_bot_py/install.log --install-scripts $base/lib/practice_bot_py --single-version-externally-managed install_data
+[2.008s] running egg_info
+[2.008s] creating ../../build/practice_bot_py/practice_bot_py.egg-info
+[2.035s] writing ../../build/practice_bot_py/practice_bot_py.egg-info/PKG-INFO
+[2.035s] writing dependency_links to ../../build/practice_bot_py/practice_bot_py.egg-info/dependency_links.txt
+[2.035s] writing requirements to ../../build/practice_bot_py/practice_bot_py.egg-info/requires.txt
+[2.036s] writing top-level names to ../../build/practice_bot_py/practice_bot_py.egg-info/top_level.txt
+[2.036s] writing manifest file '../../build/practice_bot_py/practice_bot_py.egg-info/SOURCES.txt'
+[2.089s] reading manifest file '../../build/practice_bot_py/practice_bot_py.egg-info/SOURCES.txt'
+[2.090s] adding license file 'LICENSE'
+[2.090s] writing manifest file '../../build/practice_bot_py/practice_bot_py.egg-info/SOURCES.txt'
+[2.090s] running build
+[2.091s] running build_py
+[2.091s] creating /home/jedidiah-sanusi/practice_bot/build/practice_bot_py/build
+[2.091s] creating /home/jedidiah-sanusi/practice_bot/build/practice_bot_py/build/lib
+[2.091s] creating /home/jedidiah-sanusi/practice_bot/build/practice_bot_py/build/lib/practice_bot_py
+[2.091s] copying practice_bot_py/__init__.py -> /home/jedidiah-sanusi/practice_bot/build/practice_bot_py/build/lib/practice_bot_py
+[2.091s] running install
+[2.096s] running install_lib
+[2.125s] creating /home/jedidiah-sanusi/practice_bot/install/practice_bot_py/lib/python3.12/site-packages/practice_bot_py
+[2.125s] copying /home/jedidiah-sanusi/practice_bot/build/practice_bot_py/build/lib/practice_bot_py/__init__.py -> /home/jedidiah-sanusi/practice_bot/install/practice_bot_py/lib/python3.12/site-packages/practice_bot_py
+[2.125s] byte-compiling /home/jedidiah-sanusi/practice_bot/install/practice_bot_py/lib/python3.12/site-packages/practice_bot_py/__init__.py to __init__.cpython-312.pyc
+[2.125s] running install_data
+[2.126s] creating /home/jedidiah-sanusi/practice_bot/install/practice_bot_py/share/ament_index
+[2.126s] creating /home/jedidiah-sanusi/practice_bot/install/practice_bot_py/share/ament_index/resource_index
+[2.126s] creating /home/jedidiah-sanusi/practice_bot/install/practice_bot_py/share/ament_index/resource_index/packages
+[2.126s] copying resource/practice_bot_py -> /home/jedidiah-sanusi/practice_bot/install/practice_bot_py/share/ament_index/resource_index/packages
+[2.127s] copying package.xml -> /home/jedidiah-sanusi/practice_bot/install/practice_bot_py/share/practice_bot_py
+[2.127s] running install_egg_info
+[2.154s] Copying ../../build/practice_bot_py/practice_bot_py.egg-info to /home/jedidiah-sanusi/practice_bot/install/practice_bot_py/lib/python3.12/site-packages/practice_bot_py-0.0.0-py3.12.egg-info
+[2.155s] running install_scripts
+[2.330s] writing list of installed files to '/home/jedidiah-sanusi/practice_bot/build/practice_bot_py/install.log'
+[2.349s] Invoked command in '/home/jedidiah-sanusi/practice_bot/src/practice_bot_py' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jedidiah-sanusi/practice_bot/build/practice_bot_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jedidiah-sanusi/practice_bot/install/practice_bot_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/practice_bot_py build --build-base /home/jedidiah-sanusi/practice_bot/build/practice_bot_py/build install --record /home/jedidiah-sanusi/practice_bot/build/practice_bot_py/install.log --install-scripts $base/lib/practice_bot_py --single-version-externally-managed install_data
